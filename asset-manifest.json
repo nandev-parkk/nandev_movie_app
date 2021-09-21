@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nandev_movie_app/static/css/main.97e8d6b6.chunk.css",
+    "main.js": "/nandev_movie_app/static/js/main.05fc72e1.chunk.js",
+    "main.js.map": "/nandev_movie_app/static/js/main.05fc72e1.chunk.js.map",
+    "runtime-main.js": "/nandev_movie_app/static/js/runtime-main.837db119.js",
+    "runtime-main.js.map": "/nandev_movie_app/static/js/runtime-main.837db119.js.map",
+    "static/js/2.59daac54.chunk.js": "/nandev_movie_app/static/js/2.59daac54.chunk.js",
+    "static/js/2.59daac54.chunk.js.map": "/nandev_movie_app/static/js/2.59daac54.chunk.js.map",
+    "index.html": "/nandev_movie_app/index.html",
+    "static/css/main.97e8d6b6.chunk.css.map": "/nandev_movie_app/static/css/main.97e8d6b6.chunk.css.map",
+    "static/js/2.59daac54.chunk.js.LICENSE.txt": "/nandev_movie_app/static/js/2.59daac54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.837db119.js",
+    "static/js/2.59daac54.chunk.js",
+    "static/css/main.97e8d6b6.chunk.css",
+    "static/js/main.05fc72e1.chunk.js"
+  ]
+}
